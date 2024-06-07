@@ -38,4 +38,4 @@ A study by Yvonne Harrison highlights the increased risk of pedestrian accidents
 
 Contributors
 Elvis Kuang (author)
-Aradhya Chawla (OLED libararies)
+Aradhya Chawla (OLED libararies for MATLAB)
